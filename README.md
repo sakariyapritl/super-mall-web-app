@@ -24,7 +24,7 @@ Super Mall is a modern web application designed to provide users with a seamless
 ## Installation & Setup
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-repo/super-mall.git
+   git clone https://github.com/super-mall-web-app/super-mall.git
    cd super-mall
    ```
 2. **Install dependencies:**
